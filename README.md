@@ -18,7 +18,7 @@ OS 빌드	19045.2728
 
 위와 같은 환경에서 작업을 하였습니다
 
-사용한 프로그램 파일은 vscode, androidstudio, cordova에서 작업을 하였습니다.
+사용한 프로그램 파일은 vscode, androidstudio, cordova, gradle에서 작업을 하였습니다.
 
 <img width="336" alt="1" src="https://user-images.githubusercontent.com/107782350/230559254-e593efeb-bdc3-44e5-ab8c-568205865824.png">
 시작화면입니다.
