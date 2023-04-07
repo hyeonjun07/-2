@@ -16,9 +16,12 @@ OS 빌드	19045.2728
 사용한 프로그램 파일은 vscode, androidstudio, cordova에서 작업을 하였습니다.
 <img width="336" alt="1" src="https://user-images.githubusercontent.com/107782350/230559254-e593efeb-bdc3-44e5-ab8c-568205865824.png">
 시작화면입니다.
+
 <img width="336" alt="2" src="https://user-images.githubusercontent.com/107782350/230559446-a5215381-8c64-4802-b76d-d0472cae38e6.png">
 위와같이 회사 역사를 보여주고있습니다.
+
 <img width="336" alt="3" src="https://user-images.githubusercontent.com/107782350/230559631-49b3f643-885d-4729-be9e-f5c251876393.png">
 회사의 핵심가치를 작성해 보았습니다.
+
 <img width="336" alt="5" src="https://user-images.githubusercontent.com/107782350/230559756-7ba88ba0-7c20-4226-9499-50ae029a96f2.png">
 kt회사의 사진 모습입니다.
